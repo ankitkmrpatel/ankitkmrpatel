@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ankit Kumar @ankitsflhub
+- 👋 Hi, I’m Ankit Kumar @ankitkmrpatel
 - 👀 I’m interested in React.js, React.Native and .Net/Core
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on React.js and React.Native
